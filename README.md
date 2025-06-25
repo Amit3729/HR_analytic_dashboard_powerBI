@@ -37,7 +37,7 @@ To assist HR teams in making data-driven decisions by identifying:
 
 ## 📸 Dashboard Preview
 
-![Dashboard Main View](images/dashboard_main.png)
+![Dashboard Main View](images/HR_analytics_dashboard.pdf)
 
 ## 📂 Project Files
 - `HR_Analytics_Dashboard.pbix` – Power BI file
